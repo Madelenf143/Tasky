@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://mail.google.com/mail/u/0?ui=2&ik=19cb9a6513&attid=0.1&permmsgid=msg-f:1646800706848194219&th=16da9c848b8c7eab&view=att&disp=safe
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Debugging was the biggest issue for me while creating Tasky. I have minimal experience with coding and am not always able to understand what the error messages meant. The most common errors were due to mispellings and forgetting a parenthesis/curly brace. I did have a hard time understanding the last portion of code where we had to implement a "try & catch" system for error messages but was still able to get the app running. Nonetheless, I enjoyed learning to use Android Studio and finish the project with a working app (though there are still bugs). I am eager to learn more about the debugging process and errors that may arise in the future if certain mistakes are not resolved. 
 
 ## License
 
